@@ -1,0 +1,9 @@
+aiohttp
+websockets
+redis
+pydantic
+structlog
+prometheus-client
+sqlalchemy
+asyncpg
+fastapi
